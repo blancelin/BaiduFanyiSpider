@@ -40,7 +40,7 @@
 
 **界面展示：**
 
-![](E:/git/lingdu.png)
+![](./lingdu.png)
 
 
 
